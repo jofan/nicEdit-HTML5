@@ -3,6 +3,24 @@ nicEdit-HTML5
 
 Fork of nicEdit attempting to produce better markup and add a couple of features.
 
+## Why
+nicEdit is one of few WYSIWYG editors I have found that allow one toolbar to control several inline contentEditable elements. It's also quite small compared to many of the alternatives.
+
+However, as it uses the browsers' built-in functionality (execCommand) it produces old-fashioned markup like ```<font size=2>```. This project tries to remedy that.
+
+## Alternatives
+I've looked at many alternatives but was not satisfied with any single one (e.g. too big/the wrong license/buggy/not the necessary features).
+Here are the ones I've evaluated:
+
+* Redactor - http://imperavi.com/redactor
+* Mercury - http://jejacks0n.github.com/mercury
+* Etch - http://etchjs.com
+* CKEditor - http://ckeditor.com
+* Aloha Editor - http://aloha-editor.org
+* WYSIHTML5 - http://xing.github.com/wysihtml5
+* Hallo - http://hallojs.org
+* TinyMCE - http://www.tinymce.com
+
 ## Original project
 The original nicEdit project can be found here: http://nicedit.com/
 
