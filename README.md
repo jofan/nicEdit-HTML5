@@ -27,6 +27,15 @@ The original nicEdit project can be found here: http://nicedit.com/
 From that website:
 > NicEdit was developed by [Brian Kirchoff](http://bkirchoff.com/) and is free to use for any purpose under the MIT license.
 
+Features listed for original project:
+
+* Small file size <35KB Total, <10KB Compressed!
+* Only 2 files (js + icons) required for operation.
+* Flexible Configuration replace textareas or divs
+* Multiple editors can optionally use single controls
+* Save content via AJAX or HTTP Post
+* IE 5.5+ / FF 2+ / Opera 9+ / Safari 3+
+
 ## LICENSE
 nicEdit comes with the following license information (see src/nicLicense.js):
 ```
