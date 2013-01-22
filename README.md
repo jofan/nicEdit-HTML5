@@ -7,6 +7,7 @@ Fork of nicEdit attempting to produce better markup and add a couple of features
 nicEdit is one of few WYSIWYG editors I have found that allow one toolbar to control several inline contentEditable elements. It's also quite small compared to many of the alternatives.
 
 However, as it uses the browsers' built-in functionality (execCommand) it produces old-fashioned markup like ```<font size=2>```. This project tries to remedy that.
+More info on original site: http://wiki.nicedit.com/w/page/527/XHTML%20Compliant%20Output
 
 ## Alternatives
 I've looked at many alternatives but was not satisfied with any single one (e.g. too big/the wrong license/buggy/not the necessary features).
